@@ -7,3 +7,6 @@ Using the Ruby-on-Rails Tutorial
 Based on Chapter 3
 
 Date: 04/26/2013
+
+Change 04/26/2013 11:00am By Dan Findley
+Made changes related to using Rails 3.2.13

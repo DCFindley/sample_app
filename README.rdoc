@@ -10,3 +10,7 @@ Date: 04/26/2013
 
 Change 04/26/2013 11:00am By Dan Findley
 Made changes related to using Rails 3.2.13
+
+Change 04/26/2013 2:30pm By Dan Findley
+Made changes going back to Rails 4.0.0beta
+Also made changes to use a newer pg gem

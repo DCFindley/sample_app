@@ -1,11 +1,11 @@
 source 'https://rubygems.org'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '3.2.13'
+gem 'rails', '4.0.0beta1'
 
 group :development do
   gem 'sqlite3'
-  gem 'rspec-rails', '2.12.2'
+  gem 'rspec-rails' , '2.12.2'
 end
 
 group :production do
@@ -20,8 +20,8 @@ end
 # Gems used only for assets and not required
 # in production environments by default.
 group :assets do
-  gem 'sass-rails',   '3.2.6'
-  gem 'coffee-rails', '3.2.2'
+  gem 'sass-rails',   '4.0.0.rc1'
+  gem 'coffee-rails', '4.0.0'
 
   # See https://github.com/sstephenson/execjs#readme for more supported runtimes
   # gem 'therubyracer', platforms: :ruby
